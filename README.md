@@ -26,8 +26,7 @@ Taking the above difficulties in consideration, we thought of making a desktop a
 “virtualenv takeClass”<br/>
 “source takeClass/bin/activate”<br/>
 
-#### Example of Use
-![Video Label](https://youtu.be/5yELvVQvrgQ)
+#### Example of Use video link: https://youtu.be/5yELvVQvrgQ
 
 
 
