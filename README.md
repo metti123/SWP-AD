@@ -27,7 +27,7 @@ Taking the above difficulties in consideration, we thought of making a desktop a
 “source takeClass/bin/activate”<br/>
 
 #### Example of Use
-[![Video Label] https://youtu.be/5yELvVQvrgQ
+[![Video Label](https://youtu.be/5yELvVQvrgQ)
 
 
 
